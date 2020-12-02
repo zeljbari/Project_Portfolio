@@ -23,6 +23,9 @@ The administrator runs the following reports:
 6. Ward scheduling report with name of charge nurse. 
 7. Patient ward assignment report. 
 8. Patient treatment report with and without treating physician.
+
 9. Physician treatment report of dates and types of treatments. 
+
 10.Report of Physicians and their specialties.
+
 11.Report of Nurses with their certifications and ward assignments, including those who supervise. 
