@@ -1,6 +1,6 @@
 # Bank Default Classification Data Mining Project
 
-In this project, my team and I used SAS Enterptise Miner to develop multiple binary classification models for bank borrowers defaulting on home loans. The dataset used can be found here: https://www.kaggle.com/mrferozi/loan-data-for-dummy-bank.  This project explored and compared different modeling techniques that are discussed and summarized in the project report.
+In this project, my team and I used SAS Enterprise Miner to develop and compare multiple binary classification models for bank borrowers defaulting on home loans. The dataset used can be found here: https://www.kaggle.com/mrferozi/loan-data-for-dummy-bank.  This project explored and compared different modeling techniques that are discussed and summarized in the project report.
 
 ## Narrative
 
